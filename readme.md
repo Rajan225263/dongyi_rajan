@@ -11,6 +11,18 @@ Laravel 6.1
 ## About Project 
 It is a simple accounting system for job interviews Using Laravel and Mysql Database. 
 
+## Dummy data for MYSQL database
+I provided dummy data and database in project rooot/db/dongyi_rajan_db.sql folder.
+
+## Login Credentials
+Admin User: 
+Email: admin@gmail.com
+PassWord: 123
+
+Authir User
+Email: author@gmail.com
+PassWord: 123
+
 ## Project Setup
 Clone the repository to /var/www/html for Ubuntu or xampp/htdocs/ for Windows (xampp)
 Navigate to the project directory
