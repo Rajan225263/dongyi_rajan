@@ -3,8 +3,13 @@ if you want to run this project in local server in windows, I assume that you ha
 PHP Configuration from Laravel Documentation : [https://laravel.com/docs/6.x/installation]
 Installation composer :[https://getcomposer.org/doc/00-intro.md]
 
+## Version  
+php 7.4
+Mysql 7.4
+Laravel 6.1
+
 ## About Project 
-This is a laravel application for Accounting System. Intervew Puspase.
+It is a simple accounting system for job interviews Using Laravel and Mysql Database. 
 
 ## Project Setup
 Clone the repository to /var/www/html for Ubuntu or xampp/htdocs/ for Windows (xampp)
